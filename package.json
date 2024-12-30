@@ -1,0 +1,21 @@
+{
+  "name": "tiny-xlsx-reader",
+  "version": "1.0.0",
+  "description": "Minimal library for reading XLSX and CSV files",
+  "main": "tiny-xlsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xlsx"
+  ],
+  "author": "Sominemo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sominemo/tiny-xlsx.git"
+  },
+  "dependencies": {
+    "tiny-unzip": "github:Sominemo/tiny-unzip#1.0.0"
+  }
+}
